@@ -229,7 +229,7 @@ public class Bresenham implements GLEventListener, MouseListener {
 	     
 	       gl.glRasterPos2i(570, 50);
 	       
-	       glut.glutBitmapString(GLUT.BITMAP_HELVETICA_18, "Harsh Shukla- 500068287");
+	       glut.glutBitmapString(GLUT.BITMAP_HELVETICA_18, "Harsh Shukla");
 	      
 	 	}
 	 
