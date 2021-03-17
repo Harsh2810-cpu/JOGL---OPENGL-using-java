@@ -1,3 +1,4 @@
+// Give the input by mouse clicks 
 import com.jogamp.newt.event.MouseEvent;
 import com.jogamp.newt.event.MouseListener;
 import com.jogamp.newt.opengl.GLWindow;
